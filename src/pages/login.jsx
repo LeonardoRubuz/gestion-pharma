@@ -1,6 +1,17 @@
+import { useNavigate } from "react-router-dom";
+
 function Login() {
-    return ( 
-        <h1>Login</h1>
+    const navigate = useNavigate();
+    const handleClick = () => {
+        navigate('/home')
+    }
+    return (
+        <>    
+            <h1>Login Page</h1>
+            <button onClick={handleClick}>
+                Connexion
+            </button>
+        </> 
      );
 }
 
