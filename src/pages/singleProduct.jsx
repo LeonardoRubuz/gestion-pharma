@@ -9,7 +9,7 @@ function SingleProduct() {
     return ( 
         <>
             <ProductPreview  product={product} seeMore={true}></ProductPreview>
-        </>
+        </>     
      );
 }
 

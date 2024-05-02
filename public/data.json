@@ -1,0 +1,40 @@
+{
+    "places" : [
+        {
+            "name" : "Balcon",
+            "address"  : "Kintambo",
+            "visitedTimes" : 10,
+            "isRated" : false
+        },
+        {
+            "name" : "Kintacos",
+            "address"  : "Kintambo",
+            "visitedTimes" : 20,
+            "isRated" : false
+        },
+        {
+            "name" : "Palms",
+            "address"  : "Kintambo",
+            "visitedTimes" : 3,
+            "isRated" : false
+        },
+        {
+            "name" : "Pima",
+            "address"  : "Bandal",
+            "visitedTimes" : 1,
+            "isRated" : false
+        },
+        {
+            "name" : "Bibi",
+            "address"  : "Gombe",
+            "visitedTimes" : 5,
+            "isRated" : false
+        },
+        {
+            "name" : "Cream",
+            "address"  : "Lingwala",
+            "visitedTimes" : 1,
+            "isRated" : false
+        }
+    ]
+}
